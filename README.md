@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Frontend React Drop Box
+
+
+## This project can be accessed in: https://omnistack-drive-box-frontend.herokuapp.com
 
 ## Available Scripts
 
